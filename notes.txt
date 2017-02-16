@@ -1,0 +1,15 @@
+These are the list of packages installed in this directory:
+
+1. npm install --save react
+2. npm install --save react-dom
+3. npm install --save faker
+4. npm install -save lodash
+5. npm install --save react-addons-pure-render-mixin
+6. meteor add react-meteor-data
+7. meteor add twbs:bootstrap@3.3.6
+
+
+
+publish - under server/main.js
+subscribe - under components/employee_list.js
+creating of database is under imports/collections/employees.js
