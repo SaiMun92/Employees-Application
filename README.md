@@ -20,4 +20,4 @@ Web Application can be viewed in localhost:3000
 
 
 ## Sample Screenshot of the web applciation
-![Alt text](./screenshot.png?raw=true)
+![Alt text](/./screenshot.jpg?raw=true)
