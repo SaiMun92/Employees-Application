@@ -8,6 +8,8 @@ After that, run meteor using the below command.
   meteor
 ```
 
+Web Application can be viewed in localhost:3000
+
 ## Framework and packages used in this project
 
 1. [Meteor](https://www.meteor.com/)
